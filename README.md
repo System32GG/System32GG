@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 <br>Builder de herramientas propias. Desarrollo aplicaciones prácticas para resolver problemas — desde streamers multimedia multiplataforma hasta portales de archivos, descargadores y procesadores de audio con IA.<br>Todo el código lo genero con IA. <br>Algunos proyectos activos:<br><br>🎬 PeliStream — app de streaming para Android, Android TV y PC con Remote Config<br>📁 Portal de Archivos — servidor local para compartir archivos de forma segura<br>🎵 Descargadores — yt-dlp con interfaz propia para música y video<br>🌿 FloraCheck & 🎙️ ReductorRuido — herramientas con IA corriendo en Hugging Face<br><br>Chico de 16 años, Buenos Aires, Argentina 🇦🇷<br><br><br>
 
 
